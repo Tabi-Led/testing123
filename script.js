@@ -67,3 +67,4 @@ function displaySearchResults(data) {
         searchResultsDiv.textContent = 'No results found.';
     }
 }
+
